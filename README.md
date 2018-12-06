@@ -12,7 +12,7 @@ Healthcare providers often self-identify as being "not tech savvy" and are intim
 
 Development Environment
 --------------
-Jupyter Notebook on Windows 10, Anaconda, JetBrains PyCharm 2018.2.3 x64
+Jupyter Notebook on Windows 10
 
 License
 ------------
