@@ -4,7 +4,7 @@ Final Project, FAES BIOF 309 Introduction to Python, Fall 2018
 
 Laura Bartlett (bartlettl@mail.nih.gov) and In Hye Cho (in-hye.cho@nih.gov)
 
-HealthReach (http://healthreach.nlm.nih.gov) is a National Library of Medicine (NLM) resource that provides access to free low literacy, multilingual patient education materials to be used by healthcare providers. The purpose of this project is to efficiently explore HealthReach data and create easy-to-read visualizations using Python for data anyalsis also known as "pandas".
+HealthReach (http://healthreach.nlm.nih.gov) is a National Library of Medicine (NLM) resource that provides access to free low literacy, multilingual patient education materials to be used by healthcare providers. The purpose of this project is to efficiently explore HealthReach data and create easy-to-read visualizations using Python for data analysis also known as "pandas".
 
 Motivation
 --------------
