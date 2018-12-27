@@ -8,7 +8,9 @@ HealthReach (http://healthreach.nlm.nih.gov) is a National Library of Medicine (
 
 Motivation
 --------------
-Healthcare providers often self-identify as being "not tech savvy" and are intimidated by technologies such as an application programming interface (API). This project exists to decrease the technology barrier healthcare providers face when discussing the use of an application programming interface (API) to search and retrieve HealthReach content. The use of easy-to-read and non-intimidating visuals will help end-users become more familiar with HealthReach data.
+To use Python instead of Tableau to create and verify data visualizations which will:
+- save time
+- make results reproducible
 
 Development Environment
 --------------
@@ -16,7 +18,8 @@ Jupyter Notebook on Windows 10
 
 License
 ------------
-MIT © 
+The MIT License (MIT)
+Copyright (c) 2018, biof309
 
 
 final-project-template
